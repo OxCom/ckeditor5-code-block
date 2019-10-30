@@ -50,3 +50,8 @@ where you render results from editor (news page, blog post, etc.).
 - Write tests
 - Create documentations
 - Cleanup the code
+
+## Ideas
+- customize classes for ```<pre>``` tag
+- customize languages list and translations
+- npm package
