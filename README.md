@@ -46,6 +46,9 @@ using everywhere;
 **NOTE**: In editor code block will be not highlighted. You have apply PrismJS in your applications 
 where you render results from editor (news page, blog post, etc.).
 
+#### Example
+![Example CodeBlock](./docs/img/example.png "Example CodeBlock")
+
 ## TODO
 - Write tests
 - Create documentations
