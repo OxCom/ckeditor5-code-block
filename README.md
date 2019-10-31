@@ -5,7 +5,7 @@
 
 ## Install
 1) Create folders ```/src/plugun/codeblock```
-2) Put the content ```src``` folder from current repo to ```/src/plugun/codeblock``` of you ckeditor build 
+2) Put the content ```src``` folder from current repo to ```/src/plugun/codeblock``` of your ckeditor build 
 3) In your ```ckeditor.js``` update configuration:
     ```javascript
     // ...
